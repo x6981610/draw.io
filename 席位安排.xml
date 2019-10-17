@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-17T06:52:35.662Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="_oKD2VMYwrajDAHGhxCj" version="12.1.2" type="github" pages="15">
+<mxfile modified="2019-10-17T06:52:49.595Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="RfNC75DsG1YFWfHRKZ55" version="12.1.2" type="github" pages="15">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="966" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1268,6 +1268,9 @@
         </mxCell>
         <mxCell id="SeXSgfqod3WXstNgeTi1-65" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;待嫁&lt;br style=&quot;font-size: 25px;&quot;&gt;仪式区&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
           <mxGeometry x="368" y="1840" width="112" height="112" as="geometry"/>
+        </mxCell>
+        <mxCell id="shAd4u85giEiNQD9fxeL-0" value="" style="shape=process;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
+          <mxGeometry x="776" y="1460" width="108" height="11" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
