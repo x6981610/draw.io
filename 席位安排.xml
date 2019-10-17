@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-17T06:38:30.231Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="Mcn_U4zMzkj3s2N4Vut8" version="12.1.2" type="github" pages="10">
+<mxfile modified="2019-10-17T06:38:59.368Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="5_eF6l6Gy7GWhCmGe26X" version="12.1.2" type="github" pages="10">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="966" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1131,9 +1131,6 @@
         <mxCell id="SeXSgfqod3WXstNgeTi1-16" value="L&amp;amp;W" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=40;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
           <mxGeometry x="380" y="1382" width="100" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="SeXSgfqod3WXstNgeTi1-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="SeXSgfqod3WXstNgeTi1-1" source="SeXSgfqod3WXstNgeTi1-12" target="SeXSgfqod3WXstNgeTi1-12">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="SeXSgfqod3WXstNgeTi1-18" value="女方&lt;div&gt;亲友&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
           <mxGeometry x="600" y="1350.5" width="81" height="81" as="geometry"/>
         </mxCell>
@@ -1269,14 +1266,8 @@
         <mxCell id="SeXSgfqod3WXstNgeTi1-62" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
           <mxGeometry x="710" y="2174.5" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="SeXSgfqod3WXstNgeTi1-63" value="柱子" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
-          <mxGeometry x="615" y="1945" width="50" height="50" as="geometry"/>
-        </mxCell>
-        <mxCell id="SeXSgfqod3WXstNgeTi1-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.681;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="SeXSgfqod3WXstNgeTi1-1" source="SeXSgfqod3WXstNgeTi1-12" target="SeXSgfqod3WXstNgeTi1-12">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="SeXSgfqod3WXstNgeTi1-65" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;待嫁&lt;br style=&quot;font-size: 25px;&quot;&gt;仪式区&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
-          <mxGeometry x="354" y="1838" width="132" height="132" as="geometry"/>
+          <mxGeometry x="368" y="1840" width="112" height="112" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
