@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-17T06:49:22.340Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="Jjlx-IxR6IRtk0lNlq8j" version="12.1.2" type="github" pages="15">
+<mxfile modified="2019-10-17T06:50:09.845Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="uMv1zJFBRNpwlVuXfD11" version="12.1.2" type="github" pages="15">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="966" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1718,7 +1718,7 @@
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-0"/>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-1" parent="uDpQUqsTTHwLDRi94fsJ-0"/>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="20" y="1179" width="810" height="1121" as="geometry"/>
+          <mxGeometry x="20" y="1179" width="810" height="891" as="geometry"/>
         </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-3" value="&lt;font style=&quot;font-size: 62px&quot;&gt;舞台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;verticalAlign=bottom;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="210" y="1192" width="430" height="140" as="geometry"/>
@@ -1748,7 +1748,7 @@
           <mxGeometry x="500" y="1453.5" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-12" value="" style="shape=process;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="778" y="2030" width="108" height="11" as="geometry"/>
+          <mxGeometry x="424" y="2009.5" width="11" height="121" as="geometry"/>
         </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-13" value="&lt;font style=&quot;font-size: 17px&quot;&gt;2019.11.17嘉莱特和平三楼A厅席位布局图&lt;br style=&quot;font-size: 17px&quot;&gt;请制作一份高0.8米*宽0.6米的席位牌&lt;/font&gt;" style="text;html=1;fontSize=17;fontColor=#1A1A1A;align=center;whiteSpace=wrap;verticalAlign=middle;horizontal=1;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="272" y="1201" width="328" height="61" as="geometry"/>
@@ -1813,32 +1813,8 @@
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-33" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="500" y="1930" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-34" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="151" y="2170" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-35" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="255.5" y="2170" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-36" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="500" y="2174.5" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-37" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="256.5" y="2071.5" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-38" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="500" y="2083" width="81" height="81" as="geometry"/>
-        </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-39" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="151" y="1955" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-40" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="151" y="2071.5" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-41" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="600" y="2083" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-42" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="600" y="2174.5" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-43" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="50" y="1540.5" width="81" height="81" as="geometry"/>
@@ -1858,20 +1834,8 @@
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-48" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="50" y="1734.5" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-49" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="50" y="2170" width="81" height="81" as="geometry"/>
-        </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-50" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="50" y="1955" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-51" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="50" y="2071.5" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-52" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="377" y="2081.5" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-53" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="373" y="2170" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-54" value="女方&lt;div&gt;亲友&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="710" y="1350.5" width="81" height="81" as="geometry"/>
@@ -1890,12 +1854,6 @@
         </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-59" value="女方&lt;div&gt;同事&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="710" y="1837.5" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-60" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="710" y="2083" width="81" height="81" as="geometry"/>
-        </mxCell>
-        <mxCell id="uDpQUqsTTHwLDRi94fsJ-61" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
-          <mxGeometry x="710" y="2174.5" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="uDpQUqsTTHwLDRi94fsJ-62" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 25px;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;待嫁&lt;br style=&quot;font-size: 25px;&quot;&gt;仪式区&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;" vertex="1" parent="uDpQUqsTTHwLDRi94fsJ-1">
           <mxGeometry x="368" y="1840" width="112" height="112" as="geometry"/>
