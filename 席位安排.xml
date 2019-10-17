@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-17T06:25:46.058Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="V_we5BYpDqAZ32NhrFW7" version="12.1.2" type="github" pages="8">
+<mxfile modified="2019-10-17T06:30:01.503Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="-LImq-y3J81jDpW9PDeT" version="12.1.2" type="github" pages="8">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="1396" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1082,7 +1082,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2019.10.26欢聚一堂三楼席位设计" id="Dlt3mT09nQHaC2GD8cB5">
-    <mxGraphModel dx="1396" dy="-70" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="966" dy="-70" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-0"/>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-1" parent="r2EHQfhY85RrRkJUmIE0-0"/>
@@ -1107,7 +1107,7 @@
         <mxCell id="r2EHQfhY85RrRkJUmIE0-8" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="255.5" y="1540.5" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-9" value="女方&lt;div&gt;亲友&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-9" value="女方&lt;br&gt;同事" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="500" y="1545" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-10" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
@@ -1143,7 +1143,7 @@
         <mxCell id="r2EHQfhY85RrRkJUmIE0-21" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="251.5" y="1643" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-22" value="女方&lt;div&gt;亲友&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-22" value="女方&lt;br&gt;同事" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="500" y="1643" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-23" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
@@ -1152,13 +1152,13 @@
         <mxCell id="r2EHQfhY85RrRkJUmIE0-24" value="男方&lt;div&gt;同学&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="255.5" y="1833" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-25" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-25" value="男方&lt;br&gt;朋友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="500" y="1837.5" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-26" value="男方&lt;div&gt;同学&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="256.5" y="1734.5" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-27" value="女方&lt;div&gt;同学&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-27" value="男方&lt;br&gt;朋友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="500" y="1746" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-28" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
@@ -1167,19 +1167,19 @@
         <mxCell id="r2EHQfhY85RrRkJUmIE0-29" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="151" y="1734.5" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-30" value="女方&lt;div&gt;亲友&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-30" value="男方&lt;br&gt;朋友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="600" y="1643" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-31" value="女方&lt;div&gt;同学&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-31" value="男方&lt;br&gt;朋友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="600" y="1746" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-32" value="女方&lt;div&gt;同事&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-32" value="男方&lt;br&gt;朋友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="600" y="1837.5" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-33" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="251.5" y="1955" width="81" height="81" as="geometry"/>
         </mxCell>
-        <mxCell id="r2EHQfhY85RrRkJUmIE0-34" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
+        <mxCell id="r2EHQfhY85RrRkJUmIE0-34" value="男方&lt;br&gt;朋友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
           <mxGeometry x="500" y="1949" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="r2EHQfhY85RrRkJUmIE0-38" value="男方&lt;br&gt;亲友" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="r2EHQfhY85RrRkJUmIE0-1">
