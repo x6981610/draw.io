@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-18T11:56:18.955Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="-LpCE8AubIscWd1ESCR4" version="12.1.3" type="github" pages="15">
+<mxfile modified="2019-10-18T11:59:34.335Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="FWTptq5aCPPF-csF-Jo_" version="12.1.3" type="github" pages="15">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="1396" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1227,13 +1227,16 @@
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-0"/>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-1" parent="QYNZEz8aC-kZsdEnYkJl-0"/>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
-          <mxGeometry x="122" y="1304" width="537" height="936" as="geometry"/>
+          <mxGeometry x="123.5" y="1300" width="537" height="936" as="geometry"/>
+        </mxCell>
+        <mxCell id="UPGN-jROgfVR2MkXMNPh-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QYNZEz8aC-kZsdEnYkJl-1">
+          <mxGeometry x="132" y="1842" width="368" height="41" as="geometry"/>
         </mxCell>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-3" value="&lt;font style=&quot;font-size: 62px&quot;&gt;舞台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
           <mxGeometry x="302" y="1360" width="315" height="107" as="geometry"/>
         </mxCell>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-4" value="&lt;font style=&quot;font-size: 48px&quot;&gt;T&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;台&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
-          <mxGeometry x="409" y="1467" width="91" height="342" as="geometry"/>
+          <mxGeometry x="409" y="1467" width="91" height="363" as="geometry"/>
         </mxCell>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-5" value="女方&lt;br&gt;主桌" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
           <mxGeometry x="306" y="1502.5" width="81" height="81" as="geometry"/>
@@ -1269,7 +1272,7 @@
           <mxGeometry x="623.5" y="1834.5" width="71" height="11" as="geometry"/>
         </mxCell>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-16" value="" style="shape=process;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
-          <mxGeometry x="86.5" y="1834.5" width="71" height="11" as="geometry"/>
+          <mxGeometry x="88" y="1857" width="71" height="11" as="geometry"/>
         </mxCell>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-17" value="&lt;font style=&quot;font-size: 24px&quot;&gt;2019.10.26欢聚一堂一楼席位布局图&lt;br&gt;请制作一份高0.8米*宽0.6米的席位牌&lt;/font&gt;" style="text;html=1;fontSize=7;fontColor=#1A1A1A;align=center;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
           <mxGeometry x="151" y="1210" width="479" height="60" as="geometry"/>
@@ -1301,9 +1304,6 @@
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-26" value="L&amp;amp;D" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=40;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
           <mxGeometry x="414.5" y="1482.5" width="90" height="50" as="geometry"/>
         </mxCell>
-        <mxCell id="QYNZEz8aC-kZsdEnYkJl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="QYNZEz8aC-kZsdEnYkJl-1" source="QYNZEz8aC-kZsdEnYkJl-16" target="QYNZEz8aC-kZsdEnYkJl-16" edge="1">
-          <mxGeometry relative="1" as="geometry"/>
-        </mxCell>
         <mxCell id="QYNZEz8aC-kZsdEnYkJl-28" value="&lt;span style=&quot;white-space: normal&quot;&gt;女方&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;亲友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" parent="QYNZEz8aC-kZsdEnYkJl-1" vertex="1">
           <mxGeometry x="200.5" y="1390" width="81" height="81" as="geometry"/>
         </mxCell>
@@ -1332,10 +1332,10 @@
           <mxGeometry x="221" y="1543" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="UPGN-jROgfVR2MkXMNPh-5" value="备桌" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="QYNZEz8aC-kZsdEnYkJl-1">
-          <mxGeometry x="250" y="2080" width="81" height="81" as="geometry"/>
+          <mxGeometry x="259.5" y="2080" width="81" height="81" as="geometry"/>
         </mxCell>
         <mxCell id="UPGN-jROgfVR2MkXMNPh-6" value="备桌" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="QYNZEz8aC-kZsdEnYkJl-1">
-          <mxGeometry x="300" y="2151.5" width="81" height="81" as="geometry"/>
+          <mxGeometry x="304" y="2154" width="81" height="81" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
