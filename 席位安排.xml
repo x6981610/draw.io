@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-18T11:53:49.063Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="S-oIMvBq7-aD96m3hY54" version="12.1.3" type="github" pages="15">
+<mxfile modified="2019-10-18T11:55:37.140Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="3sRAPEk0In2YLr0FzSJL" version="12.1.3" type="github" pages="15">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="1396" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1330,6 +1330,12 @@
         </mxCell>
         <mxCell id="UPGN-jROgfVR2MkXMNPh-4" value="&lt;span style=&quot;white-space: normal&quot;&gt;女方&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;亲友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="QYNZEz8aC-kZsdEnYkJl-1">
           <mxGeometry x="221" y="1543" width="81" height="81" as="geometry"/>
+        </mxCell>
+        <mxCell id="UPGN-jROgfVR2MkXMNPh-5" value="&lt;span style=&quot;white-space: normal&quot;&gt;男方&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;亲友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="QYNZEz8aC-kZsdEnYkJl-1">
+          <mxGeometry x="250" y="2080" width="81" height="81" as="geometry"/>
+        </mxCell>
+        <mxCell id="UPGN-jROgfVR2MkXMNPh-6" value="&lt;span style=&quot;white-space: normal&quot;&gt;男方&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;亲友&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" vertex="1" parent="QYNZEz8aC-kZsdEnYkJl-1">
+          <mxGeometry x="300" y="2151.5" width="81" height="81" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
