@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-20T04:57:36.440Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="Wdk86mTMlt2w6dthTdjY" version="12.1.3" type="github" pages="15">
+<mxfile modified="2019-10-20T05:01:31.643Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="YlTyt3FMx6NRiMPGmTeu" version="12.1.3" type="github" pages="15">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="1396" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1341,7 +1341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2019.10.27嘉莱特和平席位设计" id="C7wEudJD41DbA4NypLNY">
-    <mxGraphModel dx="1396" dy="-45" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1396" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="SeXSgfqod3WXstNgeTi1-0"/>
         <mxCell id="SeXSgfqod3WXstNgeTi1-1" parent="SeXSgfqod3WXstNgeTi1-0"/>
@@ -1349,7 +1349,7 @@
           <mxGeometry x="40" y="1179" width="640" height="851" as="geometry"/>
         </mxCell>
         <mxCell id="SeXSgfqod3WXstNgeTi1-3" value="&lt;font style=&quot;font-size: 62px&quot;&gt;舞台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;verticalAlign=bottom;" parent="SeXSgfqod3WXstNgeTi1-1" vertex="1">
-          <mxGeometry x="188.5" y="1192" width="430" height="140" as="geometry"/>
+          <mxGeometry x="182.5" y="1200" width="442" height="132" as="geometry"/>
         </mxCell>
         <mxCell id="SeXSgfqod3WXstNgeTi1-4" value="&lt;font style=&quot;font-size: 48px&quot;&gt;T&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 48px&quot;&gt;台&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;" parent="SeXSgfqod3WXstNgeTi1-1" vertex="1">
           <mxGeometry x="358" y="1332" width="91" height="508" as="geometry"/>
@@ -1378,8 +1378,8 @@
         <mxCell id="SeXSgfqod3WXstNgeTi1-12" value="" style="shape=process;whiteSpace=wrap;html=1;fillColor=none;rotation=90;" parent="SeXSgfqod3WXstNgeTi1-1" vertex="1">
           <mxGeometry x="626" y="1922" width="108" height="11" as="geometry"/>
         </mxCell>
-        <mxCell id="SeXSgfqod3WXstNgeTi1-13" value="&lt;font style=&quot;font-size: 17px&quot;&gt;2019.10.27嘉莱特和平四楼宴会厅席位布局图&lt;br style=&quot;font-size: 17px&quot;&gt;请制作一份高0.8米*宽0.6米的席位牌&lt;/font&gt;" style="text;html=1;fontSize=17;fontColor=#1A1A1A;align=center;whiteSpace=wrap;verticalAlign=middle;horizontal=1;" parent="SeXSgfqod3WXstNgeTi1-1" vertex="1">
-          <mxGeometry x="223" y="1192" width="361" height="61" as="geometry"/>
+        <mxCell id="SeXSgfqod3WXstNgeTi1-13" value="2019.10.27嘉莱特和平四楼宴会厅席位布局图&lt;br&gt;制作高1.2米*宽0.8米和高0.8米*宽0.6米的席位牌，共两块" style="text;fontSize=17;fontColor=#1A1A1A;align=center;verticalAlign=middle;horizontal=1;labelBorderColor=none;html=1;whiteSpace=wrap;" parent="SeXSgfqod3WXstNgeTi1-1" vertex="1">
+          <mxGeometry x="175" y="1080" width="457" height="298" as="geometry"/>
         </mxCell>
         <mxCell id="SeXSgfqod3WXstNgeTi1-14" value="男方&lt;br&gt;亲戚" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;comic=0;fillColor=none;gradientColor=#ffffff;fontColor=#FF3333;align=center;fontSize=18;" parent="SeXSgfqod3WXstNgeTi1-1" vertex="1">
           <mxGeometry x="151" y="1350.5" width="81" height="81" as="geometry"/>
@@ -1541,13 +1541,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="auS219zbIIIN9MmXmQJL-30" value="共&lt;br&gt;43备&lt;br style=&quot;font-size: 36px&quot;&gt;2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;labelBorderColor=#000000;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
-          <mxGeometry x="840.5" y="1466" width="40" height="177" as="geometry"/>
+          <mxGeometry x="881" y="1617.5" width="40" height="177" as="geometry"/>
         </mxCell>
         <mxCell id="auS219zbIIIN9MmXmQJL-33" value="" style="shape=tape;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
           <mxGeometry x="680" y="1808" width="110" height="17" as="geometry"/>
         </mxCell>
         <mxCell id="auS219zbIIIN9MmXmQJL-34" value="大厅&lt;br&gt;37桌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
-          <mxGeometry x="212.5" y="1253" width="30" height="60" as="geometry"/>
+          <mxGeometry x="210" y="1260" width="30" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
