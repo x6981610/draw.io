@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-20T04:55:08.727Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="1AObDhoQ0NpA1-wgeSaG" version="12.1.3" type="github" pages="15">
+<mxfile modified="2019-10-20T04:56:13.098Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.2 Safari/605.1.15" etag="DOLoatZFL9nVVg3_TSri" version="12.1.3" type="github" pages="15">
   <diagram id="d5f45a40-d8ff-2d1c-0e47-34e9252f3f40" name="沟通记录卡">
     <mxGraphModel dx="1396" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1526,7 +1526,7 @@
           <mxGeometry x="691" y="1423" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="auS219zbIIIN9MmXmQJL-26" value="宴会B区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
-          <mxGeometry x="750.5" y="1761.5" width="30" height="60" as="geometry"/>
+          <mxGeometry x="750.5" y="1734.5" width="30" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="auS219zbIIIN9MmXmQJL-28" value="" style="endArrow=classic;html=1;" edge="1" parent="SeXSgfqod3WXstNgeTi1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1542,6 +1542,9 @@
         </mxCell>
         <mxCell id="auS219zbIIIN9MmXmQJL-30" value="共&lt;br&gt;43备&lt;br style=&quot;font-size: 36px&quot;&gt;2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
           <mxGeometry x="840.5" y="1466" width="40" height="177" as="geometry"/>
+        </mxCell>
+        <mxCell id="auS219zbIIIN9MmXmQJL-33" value="" style="shape=tape;whiteSpace=wrap;html=1;fontSize=36;" vertex="1" parent="SeXSgfqod3WXstNgeTi1-1">
+          <mxGeometry x="680" y="1808" width="110" height="17" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
